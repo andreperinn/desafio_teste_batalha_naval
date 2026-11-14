@@ -1,0 +1,13 @@
+{
+  "name": "desafio_teste_batalha_naval",
+  "version": "1.0.0",
+  "description": "Casos de teste em Jest para uma Batalha Naval de tabuleiro 10 x 10",
+  "main": "src/BatalhaNaval.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
