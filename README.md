@@ -195,6 +195,6 @@ Os testes do posicionamento aleatório (CT17 a CT20) não dependem de onde os na
 
 ## 3. Colaboradores
 
-| Colaborador | GitHub |
-| --- | --- |
-| andreperinn | [@andreperinn](https://github.com/andreperinn) |
+| Nome | RA | Turma | GitHub |
+| --- | --- | --- | --- |
+| André Perin Geraldo | 24017529-2 | ESOFT6SA | [@andreperinn](https://github.com/andreperinn) |
